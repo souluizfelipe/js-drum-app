@@ -32,10 +32,11 @@ h1 {
     align-items: center;
     font-size: 30px;
     font-weight: bold;
-}
-.key.active {
-    border: 2px solid #FF0;
-    color: #FF0;
+  }
+  .key.active {
+    color: #333;
+    border: 2px solid #FFF;
+    background-color: #fff;
 }
 
 .composer {
